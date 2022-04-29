@@ -19,8 +19,8 @@ m = AIt/zF        ....................(1)
 
 Where m = the mass dissolved from or deposited upon\
        I = current\
-       t = time  \      
-	   A = Automic Weight\
+       t = time      
+       A = Automic Weight\
        z = valency, A/z is the chemical equivalentemical equivalent\
        F = Faraday's constant, it is the amount of electric charge necessary to liberate one gram equivalent (A/z) of an ion in electrolysis and is equal to 96500 C.
 
