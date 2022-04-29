@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which is commonly used metal for grinding wheel?",
+      "answers": {
+        "a": "Cast Iron",
+        "b": "Stainless Steel",
+        "c": "Copper",
+        "d": "Aluminium"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "For grinding steel workpiece which is the commonly used abrasive material?",
+      "answers": {
+        "a": "Ceramic",
+        "b": "Zinc Oxide",
+        "c": "Glass Powder",
+        "d": "Aluminium Oxide"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
